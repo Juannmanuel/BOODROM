@@ -37,18 +37,18 @@
   height: 2.5rem;
   display: flex;
   align-items: center;
+  justify-content: start;
   margin-left: 1rem;
 }
 .item span {
   width: 100%;
   height: auto;
   max-height: 100%;
-  font-size: 150%;
-  line-height: 1;
+  font-size: 120%;
   margin: 0;
   padding: 0;
-  text-align: center;
   align-items: center;
+
 }
 .swiper {
   width: 100%;
