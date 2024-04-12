@@ -1,0 +1,36 @@
+.muda_main {
+  width: 100%;
+  height: 100%;
+  background-color: transparent;
+  position: relative;
+  overflow: hidden;
+}
+.productos_muda {
+  width: 60%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  position: relative;
+  background-color: #5DADE2;
+}
+.logo {
+  width: 80%;
+  height: 15%;
+  border: 1px solid black;
+  position: absolute;
+  top: 3%;
+  left: 10%;
+}
+
+.video_muda {
+  width: 100%;
+  height: 100%;
+  border: 1px solid black;
+  position: absolute;
+  background-color: rgb(87, 51, 51);
+  -webkit-box-shadow: inset 22px 0px 25px -6px rgba(0, 0, 0, 1);
+  -moz-box-shadow: inset 22px 0px 25px -6px rgba(0, 0, 0, 1);
+  box-shadow: inset 22px 0px 25px -6px rgba(0, 0, 0, 1);
+}
