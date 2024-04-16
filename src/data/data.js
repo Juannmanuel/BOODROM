@@ -1,9 +1,10 @@
 let muda = [
     {   video: "",
         pantalon: {
-            nombre: "",
-            precio: "",
-            descuento: "",
+            nombre: "Denim Jack",
+            precio: "125.00",
+            descuento: "15%",
+            talles: ["38", "40", "42", "44", "46", "48"],
             imagenes: []
         },
         remera: {
@@ -19,9 +20,10 @@ let muda = [
             imagenes: []
         },
         buzo: {
-            nombre: "",
-            precio: "",
-            descuento: "",
+            nombre: "Bross",
+            precio: "125.00",
+            descuento: "15%",
+            talles: ["S","L","XL"],
             imagenes: []
         }
     },{},{},{},{}
